@@ -389,6 +389,10 @@ nav {
     color: $darkGray;
     text-align: right;
     letter-spacing: 1px;
+    
+    &:hover, &:active {
+    color: $teal;
+  }
 
     @include mobile {
       margin: 0 10px;
