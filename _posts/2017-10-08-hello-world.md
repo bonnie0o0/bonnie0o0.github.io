@@ -2,8 +2,6 @@
 layout: post
 title: 이미지가 있는 게시물 타입 입니다.
 tags:
-  - test
-  - tags
 ---
 
 repository 루트 (아래 표시)에 있는 \_config.yml 파일을 사용하여 사이트 이름, 아바타 및 기타 옵션을 업데이트 할 수 있습니다.
