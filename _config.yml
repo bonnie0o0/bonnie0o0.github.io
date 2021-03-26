@@ -1,7 +1,6 @@
 # Site settings
 title: bonnie's blog
 description: "Minimal Jekyll theme for storytellers"
-baseurl: "/tale"
 url: "https://bonnie0o0.github.io"
 
 # Google Analytics
