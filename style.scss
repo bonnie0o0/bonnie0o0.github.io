@@ -386,13 +386,13 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $teal;
     text-align: right;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $teal;
+      color: $darkGray;
     }
   }
 }
